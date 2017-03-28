@@ -1,7 +1,7 @@
 ﻿using System.Collections.Concurrent;
 using System.Diagnostics;
 
-namespace RockStone.Inka.Logging
+namespace Sangmado.Inka.Logging
 {
     public class TraceLogger : ILogger
     {

@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Globalization;
 
-namespace RockStone.Inka.Logging
+namespace Sangmado.Inka.Logging
 {
     public class TraceLog : ILog
     {

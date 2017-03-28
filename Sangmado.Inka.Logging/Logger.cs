@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace RockStone.Inka.Logging
+namespace Sangmado.Inka.Logging
 {
     public static class Logger
     {

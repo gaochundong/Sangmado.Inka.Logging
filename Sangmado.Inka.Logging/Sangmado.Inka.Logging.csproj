@@ -7,8 +7,8 @@
     <ProjectGuid>{7ADA144A-A176-437B-812E-889B6AA2536E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RockStone.Inka.Logging</RootNamespace>
-    <AssemblyName>RockStone.Inka.Logging</AssemblyName>
+    <RootNamespace>Sangmado.Inka.Logging</RootNamespace>
+    <AssemblyName>Sangmado.Inka.Logging</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
